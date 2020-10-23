@@ -9,10 +9,10 @@ permalink: /citation/
 If you use Emukit, please cite:
 
 ```
-    @Misc{emukit2018,
-      author =   {The Emukit authors},
-      title =    {Emukit: Emulation and Uncertainty Quantification for Decision Making},
-      howpublished = {\url{https://github.com/amzn/emukit}},
-      year = {2018}
+    @inproceedings{emukit2019,
+      author = {Paleyes, Andrei and Pullin, Mark and Mahsereci, Maren and Lawrence, Neil and González, Javier},
+      title = {Emulation of physical processes with Emukit},
+      booktitle = {Second Workshop on Machine Learning and the Physical Sciences, NeurIPS},
+      year = {2019}
     }
  ```
