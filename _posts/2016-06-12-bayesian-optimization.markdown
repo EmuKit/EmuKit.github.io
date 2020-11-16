@@ -40,7 +40,7 @@ Every time we evaluate the objective the model is updated with the collected dat
 Following with our example, let's start by collecting 5 points at random and use them to train a Gaussian process [[2]](#references-on-bayesian-optimization) with [GPy](https://github.com/SheffieldML/GPy).
 
 ```python
-from emukit.experimental_design.model_free.random_design import RandomDesign
+from emukit.core.initial_designs import RandomDesign
 from GPy.models import GPRegression
 from emukit.model_wrappers import GPyModelWrapper
 
