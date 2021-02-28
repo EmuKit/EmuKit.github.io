@@ -42,12 +42,15 @@ Emukit supports both model-free and model-based experimental design strategies. 
 using a Latin design.
 
 ```python
-from emukit.experimental_design.model_free.latin_design import LatinDesign
+from emukit.core.initial_designs.latin_design import LatinDesign
 
 design = LatinDesign(parameter_space) 
 num_data_points = 20
 X = design.get_samples(num_data_points)
 ```
+
+As they are often used to bootstrap the model, we call such model-free designs "initial".
+
 
 Now we evaluate the function at the selected points and we fit a model with [GPy](https://github.com/SheffieldML/GPy).
 
@@ -66,7 +69,7 @@ selecting points of maximum variance is equivalent to maximizing the mutual info
 the new set of points [[3](#references-on-experimental-design)] so this is a simple but mathematically grounded approach.
 
 ```python
-from emukit.experimental_design.model_based.acquisitions import ModelVariance
+from emukit.experimental_design.acquisitions import ModelVariance
 
 model_variance = ModelVariance(model = model_emukit)
 ```
@@ -76,7 +79,7 @@ define experiments in which 5 points are collected in parallel.
 
 
 ```python
-from emukit.experimental_design.model_based import ExperimentalDesignLoop
+from emukit.experimental_design import ExperimentalDesignLoop
 
 expdesign_loop = ExperimentalDesignLoop(model = model_emukit,
                                          space = parameter_space,
