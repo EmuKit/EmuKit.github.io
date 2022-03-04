@@ -64,7 +64,7 @@ The following workflow summarizes this steps and the techniques currently implem
 Generally speaking, Emukit does not provide modelling capabilities, instead expecting users to bring their own models. Because of the variety of modelling frameworks out there, Emukit does not mandate or make any assumptions about a particular modelling technique or a library. Instead it suggests to implement a subset of defined model interfaces required to use a particular method. Nevertheless, there are a few model-related functionalities in Emukit:
 * **Example models**, which give users something to play with to explore Emukit.
 * **Model wrappers**, which are designed to help adapting models in particular modelling frameworks to Emukit interfaces.
-* **Multi-fidelity** models, implemented based on `GPy <https://github.com/SheffieldML/GPy>`.
+* **Multi-fidelity** models, implemented based on [GPy](https://github.com/SheffieldML/GPy).
 
 <h5> Run your method </h5>
 
