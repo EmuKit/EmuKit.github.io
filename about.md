@@ -79,8 +79,7 @@ This is the component and focus of Emukit. Emukit defines a general sctructure o
 * **Benchmarking:** a bechmaking tool with some functionalities is available for some of the methods.
  
 <h5> Solve your task </h5>
-We expect this section to grow in the future. So far, we have integrated in the core part of the library 
- a simple benchmarking tool to compare differetn Bayesian optimization methods. You can check [this](https://github.com/amzn/emukit/tree/master/emukit/examples) folder for more examples.
+Check [this](https://github.com/emukit/emukit/tree/main/emukit/examples) folder for examples of things people did with Emukit. Additionally, we have integrated in the core part of the library a simple benchmarking tool to compare different Bayesian optimization methods.
 
 
 <h3> Get started!</h3>
