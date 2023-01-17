@@ -130,7 +130,7 @@ Check our list of [notebooks](https://nbviewer.org/github/emukit/emukit/blob/mai
 [examples](https://github.com/emukit/emukit/tree/master/emukit/examples) if you want to learn more about how to do Bayesian 
 quadrature and other methods with Emukit. You can also check the Emukit [documentation](https://emukit.readthedocs.io/en/latest/).
 
-We’re always open to contributions! Please read our [contribution guidelines](https://github.com/amzn/emukit/blob/master/CONTRIBUTING.md) for more information. We are particularly interested in contributions
+We’re always open to contributions! Please read our [contribution guidelines](https://github.com/emukit/emukit/blob/master/CONTRIBUTING.md) for more information. We are particularly interested in contributions
 regarding examples and tutorials.
 
 #### Refereces on Quadrature
