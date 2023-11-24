@@ -84,6 +84,6 @@ Check [this](https://github.com/emukit/emukit/tree/main/emukit/examples) folder 
 
 <h3> Get started!</h3>
 
-If you want to start using Emukit just have a look to the different examples in the landing page or have a look at the [tutorials](http://nbviewer.jupyter.org/github/amzn/emukit/blob/master/notebooks/index.ipynb).
+If you want to start using Emukit just have a look to the different examples in the landing page or have a look at the [tutorials](http://nbviewer.jupyter.org/github/emukit/emukit/blob/main/notebooks/index.ipynb).
 
 
