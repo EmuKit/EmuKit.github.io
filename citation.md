@@ -10,8 +10,8 @@ If you use Emukit, please cite our papers about it:
 
 ```
     @inproceedings{emukit2019,
-      author = {Paleyes, Andrei and Pullin, Mark and Mahsereci, Maren and Lawrence, Neil and González, Javier},
-      title = {Emulation of physical processes with Emukit},
+      author = {Paleyes, Andrei and Pullin, Mark and Mahsereci, Maren and McCollum, Cliff and Lawrence, Neil and González, Javier},
+      title = {Emulation of physical processes with {E}mukit},
       booktitle = {Second Workshop on Machine Learning and the Physical Sciences, NeurIPS},
       year = {2019}
     }
