@@ -95,9 +95,9 @@ results = bayesopt_loop.get_results()
 
 Note that you can use other models and acquisitions of your own in this loop.
 
-Check our list of [notebooks](http://nbviewer.jupyter.org/github/emukit/emukit/blob/master/notebooks/index.ipynb) and [examples](https://github.com/emukit/emukit/tree/master/emukit/examples) if you want to learn more about how to do Bayesian optimization and other methods with Emukit. You can also check the Emukit [documentation](https://emukit.readthedocs.io/en/latest/).
+Check our list of [notebooks](http://nbviewer.jupyter.org/github/emukit/emukit/blob/main/notebooks/index.ipynb) and [examples](https://github.com/emukit/emukit/tree/main/emukit/examples) if you want to learn more about how to do Bayesian optimization and other methods with Emukit. You can also check the Emukit [documentation](https://emukit.readthedocs.io/en/latest/).
 
-We’re always open to contributions! Please read our [contribution guidelines](https://github.com/emukit/emukit/blob/master/CONTRIBUTING.md) for more information. We are particularly interested in contributions
+We’re always open to contributions! Please read our [contribution guidelines](https://github.com/emukit/emukit/blob/main/CONTRIBUTING.md) for more information. We are particularly interested in contributions
 regarding examples and tutorials.
 
 #### References on Bayesian optimization
