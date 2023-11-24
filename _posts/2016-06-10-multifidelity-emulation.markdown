@@ -85,9 +85,9 @@ If you are planning to use the model in a loop (like Bayesian optimization or ex
 And that's it! In the tutorials you can see how to train other available models like the one described in [[2](#references-on-multi-fidelity-gaussian-processes)], 
 which assumes a non-linear relationship between fidelities. 
 
-Check our list of [notebooks](http://nbviewer.jupyter.org/github/emukit/emukit/blob/master/notebooks/index.ipynb) and [examples](https://github.com/emukit/emukit/tree/master/emukit/examples) if you want to learn more about how to do multi-fidelity emulation and other methods with Emukit. You can also check the Emukit [documentation](https://emukit.readthedocs.io/en/latest/).
+Check our list of [notebooks](http://nbviewer.jupyter.org/github/emukit/emukit/blob/main/notebooks/index.ipynb) and [examples](https://github.com/emukit/emukit/tree/main/emukit/examples) if you want to learn more about how to do multi-fidelity emulation and other methods with Emukit. You can also check the Emukit [documentation](https://emukit.readthedocs.io/en/latest/).
 
-We’re always open to contributions! Please read our [contribution guidelines](https://github.com/emukit/emukit/blob/master/CONTRIBUTING.md) for more information. We are particularly interested in contributions
+We’re always open to contributions! Please read our [contribution guidelines](https://github.com/emukit/emukit/blob/main/CONTRIBUTING.md) for more information. We are particularly interested in contributions
 regarding examples and tutorials.
 
 #### References on Muti-fidelity emulation
